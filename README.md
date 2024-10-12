@@ -53,6 +53,11 @@ python main.py
 - This bot fetches posts from subreddits that you define and shares them in your Discord server.
 - It handles image and video posts (including merging video and audio for Reddit videos).
 
+## Commands
+To use the bot, type the following commands in your server's text channel:
+- /k read: Displays text posts from the specified subreddit.
+- /k see: Shows other formats (images, GIFs, videos) available.
+
 ## References
 
 - [Creating a Discord Bot](https://www.youtube.com/watch?v=CHbN_gB30Tw)
